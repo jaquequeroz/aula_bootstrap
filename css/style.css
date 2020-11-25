@@ -1,0 +1,28 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+}
+.navbar {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.quem-somos {
+    background-color: #118D9B;
+    color: #ffffff;
+}
+
+.clientes {
+    background-color: #0e2022;
+    color: #ffffff;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer {
+    background-color: #000000;
+    color: #ffffff;
+}
